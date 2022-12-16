@@ -36,9 +36,7 @@ export default {
   computed: {
     coordinates () {
       return this.$store.state.lat
-    }
-      
-            
+    }       
         //  ...mapState({
         //     cityId: (state) => state.city,
         //     lat: (state) => state.lat
